@@ -5,8 +5,8 @@ export type Photo = {
   position?: string;
 };
 
-const HER = "[Hòa]";
-const ME = "[Kễnh]";
+const HER = "[Hòa yêu dấu]";
+const ME = "[Kễnh yêu Hòa]";
 
 export const issue = {
   masthead: "MUSE",
@@ -26,7 +26,7 @@ export const cover = {
     alt: "Anh yêu em vãi lồn",
     position: "50% 50%",
   } satisfies Photo,
-  summary: "[Một câu giới thiệu ngắn về người nhận]",
+  summary: "[Em gái 1m7 nặng 70kg của anh]",
   photoCredit: `Ảnh: ${ME}`,
 };
 
