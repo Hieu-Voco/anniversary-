@@ -23,7 +23,7 @@ export const cover = {
   kicker: "The October Issue",
   photo: {
     src: "/photos/women_day.jpg",
-    alt: "Anh yêu em vãi lồn",
+    alt: "Just a moment",
     position: "50% 50%",
   } satisfies Photo,
   summary: "[Em gái 1m7 nặng 70kg của anh]",
