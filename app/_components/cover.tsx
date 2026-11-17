@@ -132,7 +132,7 @@ function Stamp() {
         />
         <text className="fill-paper font-sans text-[15px] font-semibold">
           <textPath href="#stamp-ring" textLength="472">
-            NGÀY PHỤ NỮ VIỆT NAM · 20 THÁNG 10 ·
+            KỈ NIỆM NGÀY CƯỚI  · 20 THÁNG 10 ·
           </textPath>
         </text>
       </svg>
